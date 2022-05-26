@@ -1,2 +1,2 @@
-# My-portfolio-website
+# My Portfolio Website
 My data science project portfolio
